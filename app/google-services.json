@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "883582898184",
+    "project_id": "fir-4da81",
+    "storage_bucket": "fir-4da81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883582898184:android:207217809e0bfb4ce141bd",
+        "android_client_info": {
+          "package_name": "com.example.SnapEdit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcUIARrpqfWkt_FYEXCb9Wo_bfYclbIJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
